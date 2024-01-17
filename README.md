@@ -9,3 +9,5 @@ Data Science 2 is a class that I am taking at Cherry Creek Innovation Campus. Th
     - Supervised Learning
     - Unsupervised Learning
     - Reinforcement Learning
+  * Data Mining
+  * Statistical Pattern Recognition
